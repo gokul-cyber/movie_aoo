@@ -61,7 +61,7 @@ The response of the first 2 APIs is the same as this -
 
 {
   "success": true,
-  "expires_at": "2021-03-13 05:48:07 UTC",
+  "expires_at": "2022-07-12:UTC",
   "request_token": "5e29eca2e02b5adaf9a659e41bb4ca1bd6bcc0fd"
 }
 So, let’s create a model to store this token.
